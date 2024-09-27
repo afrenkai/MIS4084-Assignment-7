@@ -1,0 +1,23 @@
+,Small / All Movies / Mall,Medium / All Movies / Mall,Large / All Movies / Mall,Small / Some Movies / Mall,Medium / Some Movies / Mall,Large / Some Movies / Mall,Small / Popular Movies / Mall,Medium / Popular Movies / Mall,Large / Popular Movies / Mall,Small / All Movies / Plaza,Medium / All Movies / Plaza,Large / All Movies / Plaza,Small / Some Movies / Plaza,Medium / Some Movies / Plaza,Large / Some Movies / Plaza,Small / Popular Movies / Plaza,Medium / Popular Movies / Plaza,Large / Popular Movies / Plaza,Small / All Movies / Standalone,Medium / All Movies / Standalone,Large / All Movies / Standalone,Small / Some Movies / Standalone,Medium / Some Movies / Standalone,Large / Some Movies / Standalone,Small / Popular Movies / Standalone,Medium / Popular Movies / Standalone,Large / Popular Movies / Standalone
+0,Small theatre / Carries all current movies / In a mall,Medium-sized theatre / Carries all current movies / In a mall,Large theatre / Carries all current movies / In a mall,"Small theatre / Carries some current movies, but not all / In a mall","Medium-sized theatre / Carries some current movies, but not all / In a mall","Large theatre / Carries some current movies, but not all / In a mall",Small theatre / Carries only current popular movies / In a mall,Medium-sized theatre / Carries only current popular movies / In a mall,Large theatre / Carries only current popular movies / In a mall,Small theatre / Carries all current movies / Stand-alone location,Medium-sized theatre / Carries all current movies / Stand-alone location,Large theatre / Carries all current movies / Stand-alone location,"Small theatre / Carries some current movies, but not all / Stand-alone location","Medium-sized theatre / Carries some current movies, but not all / Stand-alone location","Large theatre / Carries some current movies, but not all / Stand-alone location",Small theatre / Carries only current popular movies / Stand-alone location,Medium-sized theatre / Carries only current popular movies / Stand-alone location,Large theatre / Carries only current popular movies / Stand-alone location,Small theatre / Carries all current movies / In a plaza,Medium-sized theatre / Carries all current movies / In a plaza,Large theatre / Carries all current movies / In a plaza,"Small theatre / Carries some current movies, but not all / In a plaza","Medium-sized theatre / Carries some current movies, but not all / In a plaza","Large theatre / Carries some current movies, but not all / In a plaza",Small theatre / Carries only current popular movies / In a plaza,Medium-sized theatre / Carries only current popular movies / In a plaza,Large theatre / Carries only current popular movies / In a plaza
+1,6,10,9,4,6,7,7,8,8,7,7,5,2,4,2,2,4,4,5,8,8,1,8,7,2,4,3
+2,10,10,9,9,8,7,8,8,9,1,1,3,1,1,1,1,2,1,7,7,7,5,6,6,5,7,7
+3,9,8,9,4,4,4,4,4,4,9,8,9,4,4,4,4,4,4,8,8,8,4,4,4,4,4,4
+4,5,8,10,3,4,5,2,8,8,6,6,8,4,7,5,4,4,7,6,7,8,2,3,5,2,3,8
+5,8,8,9,4,5,7,6,8,8,8,7,9,1,3,5,3,7,8,8,10,10,4,4,4,6,6,8
+6,7,9,10,2,6,7,4,6,6,5,8,10,2,6,6,2,6,7,3,8,9,6,6,6,4,4,6
+7,5,8,4,5,1,5,1,2,2,8,6,5,6,10,3,2,8,4,5,5,4,1,9,1,2,6,4
+8,6,7,7,6,7,7,6,7,7,6,8,9,4,7,8,6,8,10,6,7,8,6,8,7,6,8,9
+9,8,7,8,4,5,7,5,4,4,8,7,8,4,6,8,4,4,7,4,8,8,4,6,4,5,5,5
+10,2,7,5,5,4,3,8,5,9,1,8,10,4,7,8,1,5,9,4,8,8,6,7,6,7,7,8
+11,8,9,9,5,6,6,6,7,7,8,9,9,5,6,6,6,7,7,8,9,9,5,6,6,6,7,7
+12,8,7,7,5,6,6,4,8,9,7,6,8,1,6,7,5,6,7,8,7,10,3,7,9,7,8,10
+13,5,7,6,5,3,3,5,7,5,8,8,8,3,4,5,8,7,8,5,5,7,7,4,5,3,6,7
+14,8,8,8,7,7,6,8,8,8,10,10,10,6,6,6,10,10,10,4,4,6,6,6,6,4,4,6
+15,7,7,8,6,5,7,7,7,7,6,6,7,6,5,5,8,6,8,6,5,7,9,5,6,5,6,6
+16,8,6,10,5,5,5,5,7,5,4,5,9,3,6,5,2,4,9,8,5,6,3,4,4,2,6,2
+17,1,7,9,1,1,8,5,8,9,10,6,9,4,7,2,10,9,6,1,7,7,3,5,6,2,7,9
+18,4,4,9,5,4,8,4,8,8,1,7,8,4,4,6,2,5,6,4,7,10,3,5,7,3,6,8
+19,7,8,7,6,6,6,6,6,6,5,6,6,5,2,6,2,3,6,8,10,10,7,7,7,6,7,7
+20,8,7,7,7,8,6,8,7,7,7,8,7,7,8,7,9,8,7,8,7,6,8,8,5,7,7,7
+21,7,9,10,6,8,9,6,7,9,4,7,7,2,5,7,3,5,7,5,8,10,5,6,8,4,7,8
